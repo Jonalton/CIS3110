@@ -1,0 +1,8 @@
+Jonalton Jude Hamilton
+1045218
+jjudeham@uoguelph.ca
+
+
+Function Sets 1 and 2 work properly. 
+I assumed pipe would not work asyncroniously with other commands ex. ps aux | less & 
+Function Set 3 was not implemented

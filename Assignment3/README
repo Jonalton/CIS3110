@@ -1,0 +1,8 @@
+Jonalton Jude Hamilton
+1045218
+jjudeham@uoguelph.ca
+
+To run:
+    - make
+    - ./A3 <filename> <-options>
+    - run options: "First", "Best", "Worst", "Next"
